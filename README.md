@@ -1,2 +1,2 @@
-[Resource](https://www.youtube.com/watch?v=QedzfsexcdU)
-[Resource 2](https://www.beej.us/guide/bgnet/html/split/intro.html)
+[Programming Challenges - 29.1 - Winsock Server (C) - Michael Grieco](https://www.youtube.com/watch?v=QedzfsexcdU)
+[General Knowledge for Sockets](https://www.beej.us/guide/bgnet/html/split/intro.html)
